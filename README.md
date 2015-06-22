@@ -1,4 +1,4 @@
-
+How to get automated screen shots from IGV
 
 1. Run generateBatchFile.py
     !!!! IGV requires that all file paths be full. So when running on a mac start from /Users/...
