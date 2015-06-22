@@ -22,4 +22,4 @@ How to get automated screen shots from IGV
 Example:
     python generateBatchFile.py /Volumes/external/spirodelaBam/ /Users/Daniel/Documents/spirodela/data/CC3-3/vcfFiles/CC3-3_f10.vcf /Users/Daniel/Documents/spirodela/data/ /Users/Daniel/Documents/igvAuto/igvCommands.bat
     
-    Then run igvCommands.bat in IGV
+Then run igvCommands.bat in IGV
